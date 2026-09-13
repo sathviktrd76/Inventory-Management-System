@@ -1,0 +1,5 @@
+Product ID   : 123
+Product Name : Lenovo Laptop
+Quantity     : 20
+Price        : 96800.00
+----------------------------------
